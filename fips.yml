@@ -1,0 +1,7 @@
+#
+# fips-zstd
+#
+---
+exports:
+  header-dirs:
+    - src
